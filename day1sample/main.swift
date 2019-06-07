@@ -16,4 +16,9 @@ print("product of \(a) and \(b) is",a*b)
 print("quotient of \(a) and\(b) is",a/b)
 print("remainder of \(a) and \(b) is",a%b)
 
+for i in 1...10
+{
+    print(i)
+}
+
 
